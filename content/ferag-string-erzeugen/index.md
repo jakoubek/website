@@ -11,3 +11,5 @@ Die Bibliothek zur Erzeugung eines FERAG-Strings ([auf Github verfügbar](https:
 ## Sie benötigen Unterstützung?
 
 Sie benötigen Unterstützung bei der Nutzung meiner Bibliothek oder haben Interesse an einer maßgeschneiderten Server-Anwendung, um aus Ihren Logistikdaten einen FERAG-String zu erzeugen?
+
+{{< kontakt >}}

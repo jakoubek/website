@@ -35,4 +35,4 @@ Alternativ ist es auch möglich, die Schulung remote per Videokonferenz durchzuf
 - 1.400 EUR pro Tag (netto, zzgl. Mwst.)
 - bei Durchführung der Schulung bei Ihnen vor Ort zzgl. Übernachtungs- und Reisespesen
 
-**Jetzt Verfügbarkeit anfragen**
+{{< kontakt "Jetzt Verfügbarkeit anfragen" >}}

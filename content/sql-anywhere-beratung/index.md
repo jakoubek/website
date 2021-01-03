@@ -17,4 +17,4 @@ draft: false
 - Kenntnisse in der Abbildung kaufmännischer Prozesse in Software
 - analytisches Verständnis
 
-Bitte beachten Sie meine zeitliche Verfügbarkeit.
+{{< kontakt >}}

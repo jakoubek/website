@@ -4,6 +4,8 @@ date: 2021-01-02T20:32:09+01:00
 draft: false
 ---
 
+![Ninox-Logo](/ninox_logo.jpg)
+
 **Ninox** ist eine Software zur Erstellung von datenbank-basierten Unternehmensanwendungen. Mit Ninox können Sie im Handumdrehen und ohne Programmierkenntnisse Datenbankanwendungen erstellen, die zu Ihren Geschäftsprozessen passen.
 
 ## Welche Anwendungen sind möglich?

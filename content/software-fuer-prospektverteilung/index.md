@@ -26,4 +26,4 @@ Ich kann Ihnen dabei helfen,
 - geeignete Strategien für die Umsetzung einer rechtskonformen Mindestlohn-Strategie zu erarbeiten
 - den Mindestlohn für Ihre Zusteller gezielt und arbeitssparsam zu errechnen
 
-**Nehmen Sie jetzt Kontakt mit mir auf**
+{{< kontakt >}}

@@ -3,3 +3,8 @@ languageCode = "de-de"
 title = "Oliver Jakoubek Software & Beratung"
 theme = "jakoubek"
 enableGitInfo = true
+pygmentsUseClasses=true
+
+[params]
+matomoSiteId = 1
+panelbearSiteId = "IS0PpffxsSv"

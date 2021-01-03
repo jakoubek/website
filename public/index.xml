@@ -32,7 +32,7 @@ Disclaimer – rechtliche Hinweise § 1 Warnhinweis zu Inhalten Die kostenlosen 
       <pubDate>Sun, 03 Jan 2021 13:02:34 +0100</pubDate>
       
       <guid>https://www.jakoubek.net/sql-anywhere-beratung/</guid>
-      <description>Ich biete Ihnen Beratung und Support für SAP SQL Anywhere  Installation, Administration, Wartung, Backup-Konzepte Analyse und Inspektion Ihrer Datenbank Entwicklung von Datenbank-Anwendungen Schulung Ihrer Mitarbeiter  Ich bringe mit  langjährige Erfahrung mit SQL Anywhere (seit 1999) Kenntnisse in der Abbildung kaufmännischer Prozesse in Software analytisches Verständnis  Bitte beachten Sie meine zeitliche Verfügbarkeit.</description>
+      <description>Ich biete Ihnen Beratung und Support für SAP SQL Anywhere  Installation, Administration, Wartung, Backup-Konzepte Analyse und Inspektion Ihrer Datenbank Entwicklung von Datenbank-Anwendungen Schulung Ihrer Mitarbeiter  Ich bringe mit  langjährige Erfahrung mit SQL Anywhere (seit 1999) Kenntnisse in der Abbildung kaufmännischer Prozesse in Software analytisches Verständnis  Jetzt Kontakt aufnehmen &amp;rarr; </description>
     </item>
     
     <item>
@@ -53,6 +53,17 @@ Disclaimer – rechtliche Hinweise § 1 Warnhinweis zu Inhalten Die kostenlosen 
       <description>Für den Versand in Ihrer Druckereilogistik benötigen Sie einen FERAG-String zur Ansteuerung Ihrer FERAG-Versandanlage? Ich zeige Ihnen, wie leicht Sie mit Hilfe meiner Open-Source-Bibliothek feragstring selbst eine FERAG-String-Datei aus Ihren Logistikdaten erzeugen können.
 Die Bibliothek zur Erzeugung eines FERAG-Strings (auf Github verfügbar) ist in Go geschrieben. Außer Grundkenntnissen in Go und Ihren produktionsrelevanten Daten benötigen Sie nichts, um sofort selbst einen FERAG-String zu erzeugen.
 Sie benötigen Unterstützung? Sie benötigen Unterstützung bei der Nutzung meiner Bibliothek oder haben Interesse an einer maßgeschneiderten Server-Anwendung, um aus Ihren Logistikdaten einen FERAG-String zu erzeugen?</description>
+    </item>
+    
+    <item>
+      <title>Xojo</title>
+      <link>https://www.jakoubek.net/xojo/</link>
+      <pubDate>Sun, 03 Jan 2021 12:48:34 +0100</pubDate>
+      
+      <guid>https://www.jakoubek.net/xojo/</guid>
+      <description>Xojo ist eine integrierte Entwicklungsumgebung und Programmiersprache.
+Plattformübergreifend Xojo ist plattformübergreifend, und das im doppelten Sinne: die Entwicklungsumgebung ist für Windows und OSX (sowie eher experimentell für Linux) verfügbar. Außerdem können von jedem System aus auch die Builds für alle Zielbetriebssysteme erzeugt werden.
+Desktop und Web Mit Xojo konnten schon immer Desktop-Anwendungen erzeugt werden. Seit einigen Jahren ist es auch möglich, Web-Anwendungen umzusetzen. Außerdem können Apps für iOS sowie seit neuestem Anwendungen für den Raspberry Pi geschrieben werden.</description>
     </item>
     
     <item>

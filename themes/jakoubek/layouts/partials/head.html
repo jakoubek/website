@@ -4,6 +4,27 @@
 
     <title>{{- partial "title.html" . }}</title>
 
+    <meta name="author" content="Oliver Jakoubek">
+    <link href="humans.txt" rel="author" type="text/plain">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@jakoubek">
+    <meta name="twitter:title" content="Oliver Jakoubek">
+    <meta name="twitter:description" content="Oliver Jakoubek konzipiert und entwickelt datenbankbasierte Individualsoftware und Reporting-Frontends f&uuml;r moderne Unternehmen.">
+    <meta property="profile:first_name" content="Oliver">
+    <meta property="profile:last_name" content="Jakoubek">
+
+    <meta name="robots" content="index,follow">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+
+    <meta name="google-site-verification" content="dQUgBSJBjH7x9xAJ-E-mPiPFc1aLSjJ2_f0b500O2Mc" />
+    <meta name="msvalidate.01" content="1F3A4A80DE52B8D94D9DF83942CDFC4D" />
+
     <link href="/css/mvp.css" rel="stylesheet">
+    {{ if $.Param "syntax" }}
+    <link href="/css/syntax.css" rel="stylesheet">
+    {{ end }}
 
 </head>

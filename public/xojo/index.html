@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+    <title>Xojo | Oliver Jakoubek Software &amp; Beratung</title>
+
+    <meta name="author" content="Oliver Jakoubek"></meta>
+    <link href="humans.txt" rel="author" type="text/plain">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@jakoubek">
+    <meta name="twitter:title" content="Oliver Jakoubek">
+    <meta name="twitter:description" content="Oliver Jakoubek konzipiert und entwickelt datenbankbasierte Individualsoftware und Reporting-Frontends f&uuml;r moderne Unternehmen.">
+    <meta property="profile:first_name" content="Oliver">
+    <meta property="profile:last_name" content="Jakoubek">
+
+    <meta name="robots" content="index,follow">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+
+    <meta name="google-site-verification" content="dQUgBSJBjH7x9xAJ-E-mPiPFc1aLSjJ2_f0b500O2Mc" />
+    <meta name="msvalidate.01" content="1F3A4A80DE52B8D94D9DF83942CDFC4D" />
+
+    <link href="/css/mvp.css" rel="stylesheet">
+    
+    <link href="/css/syntax.css" rel="stylesheet">
+    
+
+</head>
+    <body><header>
+<nav>
+  <a href="/"><img alt="Logo" src="/logo.png" height="70"></a>
+  <ul>
+      <li>
+
+<a href="/">Oliver Jakoubek Software &amp; Beratung</a>
+</li>
+      <li><a href="#">Leistungen</a>
+<ul>
+    
+<li><a href="/ninox">Ninox</a></li>
+
+<li><a href="/sql-anywhere">SAP SQL Anywhere</a></li>
+
+<li><a href="/sql-schulung">SQL-Schulung</a></li>
+
+<li><a href="/software-fuer-prospektverteilung">Software für Prospektverteilung</a></li>
+
+<li><a href="/prospektverteiler-software-zsp">Prospektverteiler-Software ZSP</a></li>
+
+<li><a href="/xojo">Xojo, die objektorientierte Entwicklungsumgebung</a></li>
+
+<li><a href="/ferag-string-erzeugen">FERAG-String erzeugen</a></li>
+
+</ul></li>
+      <li><a href="/kontakt">Kontakt</a></li>
+  </ul>
+</nav>
+
+        </header>
+        <main>
+<header class="intro">
+    <h1>Xojo</h1>
+</header>
+
+<div class="text">
+<p>Xojo ist eine integrierte Entwicklungsumgebung und Programmiersprache.</p>
+<h3 id="plattformübergreifend">Plattformübergreifend</h3>
+<p>Xojo ist plattformübergreifend, und das im doppelten Sinne: die Entwicklungsumgebung ist für Windows und OSX (sowie eher experimentell für Linux) verfügbar. Außerdem können von jedem System aus auch die Builds für alle Zielbetriebssysteme erzeugt werden.</p>
+<h3 id="desktop-und-web">Desktop und Web</h3>
+<p>Mit Xojo konnten schon immer Desktop-Anwendungen erzeugt werden. Seit einigen Jahren ist es auch möglich, Web-Anwendungen umzusetzen.
+Außerdem können Apps für iOS sowie seit neuestem Anwendungen für den Raspberry Pi geschrieben werden.</p>
+<h3 id="die-programmiersprache">Die Programmiersprache</h3>
+<p>Die Xojo-Programmiersprache ist ein BASIC-Dialekt. Das ist zugegebenermaßen wenig spektakulär, erlaubt dem Entwickler aber schnelle Ergebnisse. Eine starke Ähnlichkeit mit Visual Basic ist nicht von der Hand zu weisen:</p>
+<div class="highlight"><pre class="chroma"><code class="language-bas" data-lang="bas"><span class="vg">Dim</span><span class="w"> </span><span class="vg">t</span><span class="w"> </span><span class="vg">As</span><span class="w"> </span><span class="vg">TextOutputStream</span>
+<span class="vg">Dim</span><span class="w"> </span><span class="vg">f</span><span class="w"> </span><span class="vg">As</span><span class="w"> </span><span class="vg">FolderItem</span>
+<span class="vg">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="vg">GetSaveFolderItem</span><span class="p">(</span><span class="s2">&#34;&#34;</span><span class="p">,</span><span class="w"> </span><span class="s2">&#34;CreateExample.txt&#34;</span><span class="p">)</span>
+<span class="vg">If</span><span class="w"> </span><span class="vg">f</span><span class="w"> </span><span class="o">&lt;&gt;</span><span class="w"> </span><span class="vg">Nil</span><span class="w"> </span><span class="vg">Then</span>
+<span class="w">    </span><span class="vg">t</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="vg">TextOutputStream</span><span class="o">.</span><span class="vg">Create</span><span class="p">(</span><span class="vg">f</span><span class="p">)</span>
+<span class="w">    </span><span class="vg">t</span><span class="o">.</span><span class="vg">WriteLine</span><span class="p">(</span><span class="vg">TextField1</span><span class="o">.</span><span class="vg">Text</span><span class="p">)</span>
+<span class="w">    </span><span class="vg">t</span><span class="o">.</span><span class="vg">Close</span>
+<span class="vg">End</span><span class="w"> </span><span class="vg">If</span></code></pre></div>
+<h3 id="datenbanken">Datenbanken</h3>
+<p>Als integrierte Standarddatenbank unterstützt Xojo SQLite. Das eignet sich ideal für kleine Testumgebungen oder als &ldquo;Lern-Anwendung&rdquo;, aber auch für die lokale Speicherung von Konfigurations- oder Programmdaten.</p>
+<p>Darüber hinaus kann auf jede ODBC-fähige Datenbank sowie direkt auf MySQL, PostgreSQL, Oracle und Microsoft SQL Server zugegriffen werden.</p>
+<h3 id="lizenzen">Lizenzen</h3>
+<p>Xojo ist eine kommerzielle Software mit einsteigerfreundlichem Modus: die Software kann beliebig lange kostenlos zur Entwicklung genutzt werden – allerdings können die Programme dann <strong>nicht</strong> kompiliert werden. Um jedoch Builds, also ein kompiliertes Programm, zu erzeugen, muss der Entwickler eine Lizenz erwerben.</p>
+<p>Für die Lizenzen ist ein einmaliger Kaufpreis sowie eine günstige jährliche Wartungspauschale zu bezahlen. Die Preise werden auf der Xojo-Website in USD angegeben.</p>
+<p>Darüber hinaus fallen keine weiteren Kosten an, vor allem auch keine für Runtime-Umgebungen bei den Nutzern der erstellten Programme (wie man das von Microsoft Access oder FileMaker kennt).</p>
+<p>Es gibt verschiedene Lizenzstufen:</p>
+<h4 id="single-desktop">Single Desktop</h4>
+<p>Die Einsteigerlizenz: je gewünschtes Zielsystem (Windows, OSX, Linux/Raspberry Pi) 99 USD. Web und iOS nicht möglich.</p>
+<h4 id="desktopwebios">Desktop/Web/iOS</h4>
+<p>Wer <strong>nur</strong> für den Desktop oder <strong>nur</strong> Web-Anwendungen oder <strong>nur</strong> iOS-Apps entwickeln möchte, kann eine plattform-spezifische Lizenz für 299 USD erwerben.</p>
+<h4 id="pro">Pro</h4>
+<p>Die Pro-Lizenz erlaubt die Entwicklung von Anwendungen für <strong>jedes</strong> Zielsystem und wird von Xojo auch ganz klar als das gewünschte Standard-Produkt positioniert. Die Lizenz kostet 699 USD.</p>
+<h4 id="enterprise">Enterprise</h4>
+<p>Es gibt noch eine Enterprise-Lizenz für 1.999 USD. Diese beinhaltet Schulungsangebote.</p>
+<h3 id="release-politik">Release-Politik</h3>
+<p>Xojo veröffentlicht alle drei Monate eine aktualisierte Version. Die Versionen tragen immer den Namen &ldquo;Jahr + r + laufende Nummer im aktuellen Jahr&rdquo; (Beispiel: 2016r4).</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="http://www.xojo.com/">Xojo-Website</a></li>
+<li><a href="https://www.xojo.com/store/">Xojo-Lizenzen</a></li>
+<li><a href="https://de.wikipedia.org/wiki/Xojo">Wikipedia-Eintrag zu Xojo</a></li>
+</ul>
+
+</div>
+
+        </main><footer>
+<hr>
+<p>
+    <small>© 2001–2021 <b>Oliver Jakoubek</b> 
+                · <a href="/impressum">Impressum</a>
+                · <a href="/datenschutz">Datenschutzerklärung</a>
+                · <a href="/kontakt">Kontakt</a>
+    </small>
+
+</p>
+</footer>
+<script async src="https://cdn.panelbear.com/analytics.js?site=IS0PpffxsSv"></script>
+<script>
+    window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
+    panelbear('config', { site: 'IS0PpffxsSv' });
+</script>
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+   
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://stat.jakoubek.net/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+    </body>
+</html>
