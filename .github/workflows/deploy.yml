@@ -14,5 +14,5 @@ jobs:
           KEY: ${{ secrets.KEY }}
         with:
           source: "public/*"
-          target: "/var/www/example.com/public_html"
+          target: "/home/oli/apps/jakoubek_www"
           strip_components: 1
