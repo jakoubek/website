@@ -12,7 +12,7 @@ Sie finden auf dieser Seite einen Überblick über die denkbaren Einsatzszenarie
 
 ### Hohe Performance, geringe Ansprüche
 
-SQL Anywhere liefert *out-of-the-box* eine hohe Performance und stellt dabei gleichzeitig geringe Ansprüche an die Hardware-Basis. In Vergleichstests, die das Preis-Leistungs-Verhältnis von Datenbank-Installationen bewerten, liegt SQL Anywhere regelmäßig auf den vorderen Plätzen. (vgl. (TPC-C - Top Ten Price/Performance Results](http://www.tpc.org/tpcc/results/tpcc_price_perf_results.asp))
+SQL Anywhere liefert *out-of-the-box* eine hohe Performance und stellt dabei gleichzeitig geringe Ansprüche an die Hardware-Basis. In Vergleichstests, die das Preis-Leistungs-Verhältnis von Datenbank-Installationen bewerten, liegt SQL Anywhere regelmäßig auf den vorderen Plätzen. (vgl. (TPC-C - Top Ten Price/Performance Results](http://www.tpc.org/tpcc/results/tpcc_price_perf_results.asp)
 
 ### Wartungsarm und kostengünstig im Betrieb
 

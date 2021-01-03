@@ -2,3 +2,4 @@ baseURL = "https://www.jakoubek.net/"
 languageCode = "de-de"
 title = "Oliver Jakoubek Software & Beratung"
 theme = "jakoubek"
+enableGitInfo = true

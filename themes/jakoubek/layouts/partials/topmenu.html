@@ -1,0 +1,6 @@
+<a href="#">{{ .Site.Data.topmenu.title }}</a>
+<ul>
+    {{ range .Site.Data.topmenu.entries }}
+<li><a href="{{ .address }}">{{ .name }}</a></li>
+{{ end }}
+</ul>

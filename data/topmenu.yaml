@@ -1,0 +1,17 @@
+title: Leistungen
+
+entries:
+  - name: Ninox
+    address: /ninox
+  - name: SAP SQL Anywhere
+    address: /sql-anywhere
+  - name: SQL-Schulung
+    address: /sql-schulung
+  - name: Software für Prospektverteilung
+    address: /software-fuer-prospektverteilung
+  - name: Prospektverteiler-Software ZSP
+    address: /prospektverteiler-software-zsp
+  - name: Xojo, die objektorientierte Entwicklungsumgebung
+    address: /xojo
+  - name: FERAG-String erzeugen
+    address: /ferag-string-erzeugen
