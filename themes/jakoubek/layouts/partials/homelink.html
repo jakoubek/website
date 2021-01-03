@@ -1,0 +1,6 @@
+{{ $homeLinkText := htmlUnescape "Oliver&nbsp;Jakoubek Software&nbsp;&&nbsp;Beratung" }}
+{{ if .IsHome }}
+{{ $homeLinkText }}
+{{ else }}
+<a href="/">{{$homeLinkText}}</a>
+{{ end }}

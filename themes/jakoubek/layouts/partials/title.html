@@ -1,0 +1,3 @@
+{{- $siteTitle := .Site.Title }}
+{{- $pageTitle := print .Page.Title " | " .Site.Title }}
+{{- cond .IsHome $siteTitle $pageTitle }}
