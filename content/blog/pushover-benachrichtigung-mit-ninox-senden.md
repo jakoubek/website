@@ -1,6 +1,7 @@
 ---
 title: "Pushover-Benachrichtigung mit Ninox senden"
 date: 2021-01-03T22:29:41+01:00
+tags: ['Ninox', 'Pushover', 'Integration']
 draft: false
 syntax: true
 ---

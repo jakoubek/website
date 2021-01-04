@@ -1,6 +1,7 @@
 ---
 title: "Ninox"
 date: 2021-01-02T20:32:09+01:00
+tags: ['Ninox']
 draft: false
 ---
 
