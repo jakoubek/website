@@ -1,5 +1,6 @@
 ---
 title: "Ninox"
+description: "Ninox ist eine Software zur Erstellung von datenbank-basierten Unternehmensanwendungen. Beratung und Support für Ihr Ninox-Datenbank-Projekt"
 date: 2021-01-02T20:32:09+01:00
 tags: ['Ninox']
 draft: false

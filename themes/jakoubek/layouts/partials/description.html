@@ -1,0 +1,5 @@
+{{ if $.Param "description" }}
+{{- $.Param "description" -}}
+{{ else }}
+{{- .Site.Params.Description -}}
+{{ end }}
