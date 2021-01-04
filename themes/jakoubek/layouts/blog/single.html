@@ -1,0 +1,13 @@
+{{ define "main" }}
+<header class="intro">
+    <h1>{{ .Title }}</h1>
+    <p class="postdate">{{.Date.Format "2006-01-02"}}</p>
+</header>
+
+<div class="text">
+{{ .Content }}
+</div>
+
+{{ partial "tags.html" .}}
+
+{{ end }}

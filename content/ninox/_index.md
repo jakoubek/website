@@ -75,4 +75,3 @@ Es gibt im Marktsegment der Datenbank-Builder (andere Begriffe: App-Builder, Low
 ## Ninox-Anwendungsfälle
 
 - [Pushover-Benachrichtigung mit Ninox senden](/blog/pushover-benachrichtigung-mit-ninox-senden)
-

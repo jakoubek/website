@@ -1,0 +1,20 @@
+.postdate {
+    color: grey;
+}
+
+.tag {
+    background-color: var(--color-secondary);
+    border-radius: var(--border-radius);
+    color: var(--color-bg);
+    font-size: x-small;
+    font-weight: bold;
+    margin: 0.1rem;
+    padding: 0.2rem 0.3rem;
+    position: relative;
+    top: -2px;
+}
+
+.taggedwith {
+    color: grey;
+    font-size: small;
+}

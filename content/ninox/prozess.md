@@ -1,7 +1,7 @@
 ---
 title: "Zehn Schritte zur Entwicklung Ihrer individuellen Ninox-Datenbank-Lösung"
 date: 2021-01-03T22:50:30+01:00
-draft: false
+draft: true
 ---
 
 Sie sind auf dieser Seite hier gelandet und wissen gar nicht genau warum? Auf meiner Website finden Sie unter [jakoubek.net/ninox](/ninox) einen Einstieg, was **Ninox** ist und wie Sie damit Ihre Geschäftsprozesse abbilden können.
