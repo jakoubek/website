@@ -16,7 +16,7 @@ Ich verwende bevorzugt die Software [AnyDesk](https://anydesk.com/de) für den F
 ## Download
 
 - Über diesen Link gelangen Sie zur Download-Seite von AnyDesk: [anydesk.com/de/downloads](https://anydesk.com/de/downloads/)
-- Der Download der Client-Software startet automatisch und wird schnell beendet sein, da die Software weniger als 2 Megabyte groß ist.
+- Der Download der Client-Software startet automatisch und wird schnell beendet sein, da die Software weniger als 4 Megabyte groß ist.
 
 ![AnyDesk-Download](/anydesk_download.jpg)
 
