@@ -1,0 +1,14 @@
+{{ $pages := where .Site.RegularPages "Section" "projekt" }}
+{{ range ($pages.ByParam "sort") }}
+{{ if .Params.showOnHomepage }}
+<aside>
+    <h3>{{ .Title }}</h3>
+    {{ if .Params.teaser }}
+    <p>{{ safeHTML .Params.teaser }}</p>
+    {{ end }}
+    {{ if .Params.url }}
+    <p class="projektlink"><a href="{{.Params.url | relURL }}">mehr...</a></p>
+    {{ end }}
+</aside>
+{{ end }}
+{{ end }}
