@@ -1,6 +1,6 @@
 ---
 title: "FERAG-String erzeugen"
-description: "So erzeugen Sie einen FERAG-String zur Ansteuerung Ihrer FERAG-Versandanlage"
+description: "Ich zeige Ihnen, wie leicht Sie mit Hilfe meiner Open-Source-Bibliothek feragstring selbst eine FERAG-String-Datei aus Ihren Logistikdaten erzeugen können."
 date: 2021-01-03T12:48:47+01:00
 tags: ['FERAG', 'Go']
 draft: false
