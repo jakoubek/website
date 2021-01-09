@@ -22,3 +22,7 @@
 .footnote {
     font-size: small;
 }
+
+:root {
+    --color-secondary: #0066cc;
+}
