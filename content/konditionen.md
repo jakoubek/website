@@ -6,7 +6,7 @@ draft: false
 
 ## Entwicklung/Beratung
 
-Für Entwicklungsprojekte mit überschaubarem und vorzeitig bekanntem Funktionsumfang bitte ich Ihnen die Abrechnung zu einem {{< rawhtml >}}<mark>projektabhängigen Festpreis</mark>{{< /rawhtml >}} an. Dies bietet Ihnen den Vorteil, während der Entwicklungsphase nicht "auf die Uhr schauen zu müssen". Zusätzlich erhalten Sie bei Festpreisprojekten nach Abschluss der Entwicklung zeitlich unbegrenzten und kostenfreien Support für Ihre Anwendung.{{< rawhtml >}}<sup>1</sup>{{< /rawhtml >}}
+Für Entwicklungsprojekte mit überschaubarem und vorzeitig bekanntem Funktionsumfang biete ich Ihnen die Abrechnung zu einem {{< rawhtml >}}<mark>projektabhängigen Festpreis</mark>{{< /rawhtml >}} an. Dies bietet Ihnen den Vorteil, während der Entwicklungsphase nicht "auf die Uhr schauen zu müssen". Zusätzlich erhalten Sie bei Festpreisprojekten nach Abschluss der Entwicklung zeitlich unbegrenzten und kostenfreien Support für Ihre Anwendung.{{< rawhtml >}}<sup>1</sup>{{< /rawhtml >}}
 
 ## Beratungsangebot für Ninox
 
